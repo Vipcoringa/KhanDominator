@@ -44,6 +44,8 @@ javascript:(()=>{fetch("https://raw.githubusercontent.com/Vipcoringa/KhanDominat
   <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por VipCoringa!</h3>
 </div>
 
+---
+
 ## ⚠️ Aviso Legal
 
 Este script é apenas para fins educacionais. Use por sua conta e risco e respeite os termos de serviço da plataforma.
